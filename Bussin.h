@@ -1,0 +1,21 @@
+#pragma once
+#define bout cout
+#define say cin
+#define rizz int
+#define rn ;
+#define cap false
+#define no !
+#define sussin ?
+#define fr long
+#define chief main
+#define bouta &
+#define finna =
+#define mf *
+#define bussin :
+#define be ==
+#define yikes break
+#define vibin --
+#define deadass return
+#define ongod ++
+#define periodt {
+#define tho }
